@@ -12,7 +12,6 @@ Atlas is a Python-based voice assistant that listens for a wake word and perform
 * 📰 Latest news headlines (NewsAPI)
 * 🌦️ Weather updates
 * 🕒 Time & Date announcements
-* 🤖 AI fallback for unknown commands
 * 🔊 Text-to-speech voice output
 
 ---
