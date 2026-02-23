@@ -11,8 +11,8 @@ import geocoder
 from openai import OpenAI
 
 # API KEYS
-newsApi = "953bcd75bb5e4225b4b676d376f0dda8"
-weather_api = "https://api.open-meteo.com/v1/forecast?latitude=52.52&longitude=13.41&hourly=temperature_2m"
+newsApi = "YOUR_NEWS_API_KEY"
+weather_api = "YOUR_WEATHER_API_KEY"
 
 
 #Speech + Audio setup
