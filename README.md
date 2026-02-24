@@ -97,11 +97,6 @@ atlas-voice-assistant/
 
 ## 👨‍💻 Author
 
-Made with ❤️ by *Anunay Chhapre*
+Made by **Anunay Chhapre**
 
----
-
-## 📜 License
-
-This project is open-source under the MIT License.
 
